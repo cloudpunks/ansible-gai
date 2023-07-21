@@ -1,6 +1,6 @@
 ---
 repository:
-  name: gai
+  name: ansible-gai
   description: Ansible role to configure gai preferences
   topics: ansible, role, ansible-role, hacktoberfest
 
